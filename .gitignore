@@ -1,4 +1,8 @@
 # Node.js Tools for Visual Studio
+.idea/
+.vscode/
 node_modules/
 dist/
-
+build/
+tmp/
+temp/
